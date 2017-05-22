@@ -22,7 +22,7 @@
       "id": 4,
       "title": "Oh snap!",
       "message": "Change a few things up and try submitting again.",
-      "type": "warning"
+      "type": "danger"
     }
   ],
   "todos": [
