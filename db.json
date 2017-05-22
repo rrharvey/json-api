@@ -1,4 +1,30 @@
 {
+  "alerts": [
+    {
+      "id": 1,
+      "title": "Well done!",
+      "message": "You successfully read this important alert message.",
+      "type": "success"
+    },
+    {
+      "id": 2,
+      "title": "Heads up!",
+      "message": "This alert needs your attention, but it's not super important.",
+      "type": "info"
+    },
+    {
+      "id": 3,
+      "title": "Warning!",
+      "message": "Better check yourself, you're not looking too good.",
+      "type": "warning"
+    },
+    {
+      "id": 4,
+      "title": "Oh snap!",
+      "message": "Change a few things up and try submitting again.",
+      "type": "warning"
+    }
+  ],
   "todos": [
     {
       "userId": 1,
@@ -65,7 +91,7 @@
     {
       "userId": 1,
       "id": 1,
-      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "title": "sunt aut facere repellat",
       "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
     },
     {
@@ -77,7 +103,7 @@
     {
       "userId": 1,
       "id": 3,
-      "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+      "title": "ea molestias quasi exercitationem",
       "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
     },
     {
